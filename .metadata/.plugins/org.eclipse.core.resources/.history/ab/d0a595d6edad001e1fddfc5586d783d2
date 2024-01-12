@@ -1,0 +1,16 @@
+package encapsulation.good;
+
+public class MyBirthday {
+	// 캡슐화(은닉)시 변수는 무조건 private로 처리
+	private int year;
+	private int month;
+	private int day;
+	
+	// alt + shift + s 혹은 마우스 우클릭 -> source
+	// >> generate constructor using fields 선택
+	public MyBirthday(int year, int month, int day) {
+		this.year = year;
+		this.month = month;
+		this.day = day;
+	}
+}

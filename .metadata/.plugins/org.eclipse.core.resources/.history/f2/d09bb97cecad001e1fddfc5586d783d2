@@ -1,0 +1,9 @@
+package encapsulation.bad;
+
+public class MainClass {
+	
+	MyBirthDay b = new MyBirthday();
+	
+	b.year
+
+}

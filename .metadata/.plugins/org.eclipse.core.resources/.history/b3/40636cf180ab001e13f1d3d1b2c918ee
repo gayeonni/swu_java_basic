@@ -1,0 +1,21 @@
+package override;
+
+public class Programmer extends Human {
+	
+	public int duty;
+	public String creed;
+	
+	@Override
+	public void 자기소개하기() {
+		System.out.println("이름: " + name);
+		System.out.println("나이: " + age);
+		System.out.println("직무: " + duty);
+		System.out.println("신조: " + creed);
+	}
+	
+	@Override
+	public void 코딩하기() {
+		System.out.println("코딩 잘합니다.");
+	}
+
+}

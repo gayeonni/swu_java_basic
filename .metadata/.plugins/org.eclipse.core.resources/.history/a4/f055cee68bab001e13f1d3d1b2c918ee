@@ -1,0 +1,12 @@
+package overload;
+
+public class CatMain {
+	public static void main(String[] args) {
+		Cat c1 = new Cat();
+		c1.Call();
+		
+		Cat c2 = new Cat("춘식이", "코숏");
+		c2.Call("춘식이");
+	}
+
+}

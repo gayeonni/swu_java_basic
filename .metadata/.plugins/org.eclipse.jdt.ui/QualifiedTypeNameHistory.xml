@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="garbagecollection.GarbageCollectorTest"/>
+    <fullyQualifiedTypeName name="class_.BasketballPlayer"/>
+    <fullyQualifiedTypeName name="basic.fruit.Apple"/>
+    <fullyQualifiedTypeName name="basic.hello.hi.Hi"/>
+    <fullyQualifiedTypeName name="basic.hello.bye.Bye"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="inheritance.Student"/>
+    <fullyQualifiedTypeName name="inheritance.Salaryman"/>
+    <fullyQualifiedTypeName name="super_.SupersonicAirplane"/>
+    <fullyQualifiedTypeName name="accessmodifier.member.pack1.A"/>
+    <fullyQualifiedTypeName name="accessmodifier.protec.pack1.A"/>
+    <fullyQualifiedTypeName name="accessmodifier.constructor.pack1.A"/>
+    <fullyQualifiedTypeName name="accessmodifier.class_.pack1.B"/>
+    <fullyQualifiedTypeName name="encapsulation.bad.MyBirthday"/>
+    <fullyQualifiedTypeName name="encapsulation.good.MyBirthday"/>
+    <fullyQualifiedTypeName name="noinheri.Rabbit"/>
+    <fullyQualifiedTypeName name="noinheri.Warrior"/>
+    <fullyQualifiedTypeName name="inheri.Rabbit"/>
+</qualifiedTypeNameHistroy>
