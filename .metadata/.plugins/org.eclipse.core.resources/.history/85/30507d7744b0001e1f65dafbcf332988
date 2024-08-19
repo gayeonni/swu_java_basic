@@ -1,7 +1,0 @@
-package instanceof_;
-
-public class Student extends Human {
-	
-	
-
-}
